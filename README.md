@@ -2,7 +2,7 @@
 Chan Qijian
 
 # Hosted on Vercel
-Dynamic route viewable on Github CI/CD
+https://govtech-takehome.vercel.app/
 
 # Local deployment
 1. npm install
